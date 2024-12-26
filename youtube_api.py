@@ -1,5 +1,6 @@
 from googleapiclient.discovery import build
 from dotenv import load_dotenv
+from datetime import datetime
 import json
 import os
 
@@ -45,6 +46,27 @@ def get_video_categories():
 
     return response
 
+def search_videos(video_category_id, start_date, end_date, query='', max_results=50, page_token=None):
+    request = youtube.search().list(
+        part='snippet',
+        q=query,
+        type='video',
+        videoDuration='medium',
+        regionCode='BR',
+        relevanceLanguage='pt',
+        publishedAfter=start_date,
+        publishedBefore=end_date,
+        videoCategoryId=video_category_id,
+        maxResults=max_results,
+        pageToken=page_token
+    )
+    response = request.execute()
+
+    with open("videos.json", 'w', encoding='utf-8') as f:
+        json.dump(response, f, ensure_ascii=False, indent=4)
+
+    return response
+
 if __name__ == "__main__":
     video_id = 'dQw4w9WgXcQ'
 
@@ -59,5 +81,19 @@ if __name__ == "__main__":
     '''
 
     # =================== Categories ===================
+    '''
     video_categories = get_video_categories()
     print(json.dumps(video_categories, indent=4, ensure_ascii=False))
+    '''
+
+    # =================== Search videos ===================
+    start_date = datetime(2024, 12, 1).isoformat() + "Z"
+    end_date = datetime(2024, 12, 7).isoformat() + "Z"
+
+    videos = search_videos(
+        query='Jogos',
+        video_category_id='20', # Gaming
+        start_date=start_date,
+        end_date=end_date
+    )
+    print(json.dumps(videos, indent=4, ensure_ascii=False))
