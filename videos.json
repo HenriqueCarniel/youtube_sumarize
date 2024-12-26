@@ -1,10 +1,10 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "NKojqaxP1hoz4EtgTaAM2WhHDMg",
+    "etag": "6uXqxzsigwpPJFejy9jC72E44JM",
     "nextPageToken": "CDIQAA",
     "regionCode": "BR",
     "pageInfo": {
-        "totalResults": 76459,
+        "totalResults": 76437,
         "resultsPerPage": 50
     },
     "items": [
@@ -112,40 +112,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "k2XZh_LNkvXyfr4cfM7V9M7DHTI",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "evv4hJLknZs"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-01T02:11:56Z",
-                "channelId": "UCvnQDPLWN_PpBOKnToBFQJA",
-                "title": "é INACEITAVEL o ESTADO atual do GAME PASS/XCLOUD e QUASE NINGUEM esta FALANDO !",
-                "description": "O estado atual do Game Pass e Xcloud estão inaceitaveis e parece que nao acontece nenhuma melhoria na infraestrutura, a má ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/evv4hJLknZs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/evv4hJLknZs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/evv4hJLknZs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "MitoGouken",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-01T02:11:56Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "hXxkWjyK2LZV-Mo55U3rGIRCAII",
             "id": {
                 "kind": "youtube#video",
@@ -180,6 +146,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "k2XZh_LNkvXyfr4cfM7V9M7DHTI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "evv4hJLknZs"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-01T02:11:56Z",
+                "channelId": "UCvnQDPLWN_PpBOKnToBFQJA",
+                "title": "é INACEITAVEL o ESTADO atual do GAME PASS/XCLOUD e QUASE NINGUEM esta FALANDO !",
+                "description": "O estado atual do Game Pass e Xcloud estão inaceitaveis e parece que nao acontece nenhuma melhoria na infraestrutura, a má ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/evv4hJLknZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/evv4hJLknZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/evv4hJLknZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MitoGouken",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-01T02:11:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "fP4qZC7F2-jDeK1mfkPcXf_FfqU",
             "id": {
                 "kind": "youtube#video",
@@ -210,6 +210,40 @@
                 "channelTitle": "Reviews de Games",
                 "liveBroadcastContent": "none",
                 "publishTime": "2024-12-02T22:30:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "co9nTVYYlWtDSYVngWsYPztqMuM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wyYEd9A3I-4"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-02T21:06:59Z",
+                "channelId": "UCP-HES3sFky9rq7VjwF4CZg",
+                "title": "&quot;PORQUE TANTOS JOGOS MOBILE FLOPAM 🤔????&quot;...",
+                "description": "Este vídeo contém um questionamento sobre a atual situação do mercado mobile, e inclui, farlight 84, bloodstrike, warzone ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wyYEd9A3I-4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wyYEd9A3I-4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wyYEd9A3I-4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Znacker II",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-02T21:06:59Z"
             }
         },
         {
@@ -384,40 +418,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "fpqJmQaN9ZWm1PS6rzDHICwwAu0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "N8Xd4dIGmgo"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-05T20:40:06Z",
-                "channelId": "UCHuZmQ0lSW8TG81dVZZh5rw",
-                "title": "Jogando NOVO I AM CAT VR - (jogo completo)",
-                "description": "SAIU! lançou I AM CAT VR (jogo completo, com nova cidade, novos personagens e novos gatos) Fique ligado aqui no canal para ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/N8Xd4dIGmgo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/N8Xd4dIGmgo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/N8Xd4dIGmgo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "LipaoGamer",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-05T20:40:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "BfkqDeWoRWeF9zR4v3GujzJHiAM",
             "id": {
                 "kind": "youtube#video",
@@ -448,6 +448,40 @@
                 "channelTitle": "Cogumelando Videogame",
                 "liveBroadcastContent": "none",
                 "publishTime": "2024-12-05T22:00:35Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fpqJmQaN9ZWm1PS6rzDHICwwAu0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N8Xd4dIGmgo"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-05T20:40:06Z",
+                "channelId": "UCHuZmQ0lSW8TG81dVZZh5rw",
+                "title": "Jogando NOVO I AM CAT VR - (jogo completo)",
+                "description": "SAIU! lançou I AM CAT VR (jogo completo, com nova cidade, novos personagens e novos gatos) Fique ligado aqui no canal para ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N8Xd4dIGmgo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N8Xd4dIGmgo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N8Xd4dIGmgo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "LipaoGamer",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-05T20:40:06Z"
             }
         },
         {
@@ -486,40 +520,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "sQaK_sMWPuZqhUeq1bFBs_bZKTo",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "PG26Z41a25g"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-05T02:05:00Z",
-                "channelId": "UC1q6zWjk1F2UPM43dXSz89g",
-                "title": "Testando 5 JOGOS que estão DE GRAÇA no Steam Deck",
-                "description": "Entre para o Clube de Membros por R$ 1,99 e tenha BENEFÍCIOS: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PG26Z41a25g/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PG26Z41a25g/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PG26Z41a25g/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Central Deck",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-05T02:05:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "9nbEa0GQbyCZpLEP7C7a6vlABWo",
             "id": {
                 "kind": "youtube#video",
@@ -550,6 +550,40 @@
                 "channelTitle": "Play Guima",
                 "liveBroadcastContent": "none",
                 "publishTime": "2024-12-02T22:10:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sQaK_sMWPuZqhUeq1bFBs_bZKTo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PG26Z41a25g"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-05T02:05:00Z",
+                "channelId": "UC1q6zWjk1F2UPM43dXSz89g",
+                "title": "Testando 5 JOGOS que estão DE GRAÇA no Steam Deck",
+                "description": "Entre para o Clube de Membros por R$ 1,99 e tenha BENEFÍCIOS: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PG26Z41a25g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PG26Z41a25g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PG26Z41a25g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Central Deck",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-05T02:05:00Z"
             }
         },
         {
@@ -622,36 +656,36 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "co9nTVYYlWtDSYVngWsYPztqMuM",
+            "etag": "tDQlQxYNRpJYqKqeGswEfFx0qoY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "wyYEd9A3I-4"
+                "videoId": "knkVwq6KcSI"
             },
             "snippet": {
-                "publishedAt": "2024-12-02T21:06:59Z",
-                "channelId": "UCP-HES3sFky9rq7VjwF4CZg",
-                "title": "&quot;PORQUE TANTOS JOGOS MOBILE FLOPAM 🤔????&quot;...",
-                "description": "Este vídeo contém um questionamento sobre a atual situação do mercado mobile, e inclui, farlight 84, bloodstrike, warzone ...",
+                "publishedAt": "2024-12-04T21:12:14Z",
+                "channelId": "UCYXRVwC5X5BORMBgo6al-Sw",
+                "title": "Virei o Cirilo e Toquei o Terror na Escola do Carrossel 👦🏾🔥 Roblox",
+                "description": "Roblox é uma plataforma online imersiva que permite aos usuários criar e jogar milhões de jogos desenvolvidos por outros ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/wyYEd9A3I-4/default.jpg",
+                        "url": "https://i.ytimg.com/vi/knkVwq6KcSI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/wyYEd9A3I-4/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/knkVwq6KcSI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/wyYEd9A3I-4/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/knkVwq6KcSI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Znacker II",
+                "channelTitle": "Aquino dos GAMES",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-12-02T21:06:59Z"
+                "publishTime": "2024-12-04T21:12:14Z"
             }
         },
         {
@@ -686,40 +720,6 @@
                 "channelTitle": "HadesPlays",
                 "liveBroadcastContent": "none",
                 "publishTime": "2024-12-01T16:00:05Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "tDQlQxYNRpJYqKqeGswEfFx0qoY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "knkVwq6KcSI"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-04T21:12:14Z",
-                "channelId": "UCYXRVwC5X5BORMBgo6al-Sw",
-                "title": "Virei o Cirilo e Toquei o Terror na Escola do Carrossel 👦🏾🔥 Roblox",
-                "description": "Roblox é uma plataforma online imersiva que permite aos usuários criar e jogar milhões de jogos desenvolvidos por outros ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/knkVwq6KcSI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/knkVwq6KcSI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/knkVwq6KcSI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aquino dos GAMES",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-04T21:12:14Z"
             }
         },
         {
@@ -792,40 +792,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "oXUJg987_90UBt-O_6jW-pWGlQY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "sQL13bvhKaE"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-03T22:50:00Z",
-                "channelId": "UC30I8n2znnNUK8NrCIKjAyw",
-                "title": "Os 10 MELHORES Jogos de TERROR para Nintendo Switch!",
-                "description": "TOP 10 Jogos de TERROR Mais ASSUSTADORES do Nintendo Switch! Se coragem não é um problema e você tem um Switch, ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/sQL13bvhKaE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/sQL13bvhKaE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/sQL13bvhKaE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Garimpando Switch",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-03T22:50:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "wVgIKr2TglqmlYaPQizCqHcJ4lo",
             "id": {
                 "kind": "youtube#video",
@@ -856,6 +822,40 @@
                 "channelTitle": "Luluca Games",
                 "liveBroadcastContent": "none",
                 "publishTime": "2024-12-06T14:00:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oXUJg987_90UBt-O_6jW-pWGlQY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sQL13bvhKaE"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-03T22:50:00Z",
+                "channelId": "UC30I8n2znnNUK8NrCIKjAyw",
+                "title": "Os 10 MELHORES Jogos de TERROR para Nintendo Switch!",
+                "description": "TOP 10 Jogos de TERROR Mais ASSUSTADORES do Nintendo Switch! Se coragem não é um problema e você tem um Switch, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sQL13bvhKaE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sQL13bvhKaE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sQL13bvhKaE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Garimpando Switch",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-03T22:50:00Z"
             }
         },
         {
@@ -1030,6 +1030,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "PSo6tniwFAtaYqfYgtxfR-4YhZQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wd7PmzCxlmI"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-06T00:21:03Z",
+                "channelId": "UCdFlUqkDixEDgVfMbw8qJIQ",
+                "title": "um jogo perturbador sobre paralisía do sono",
+                "description": "assista até o final e ganhe uma bolacha :] ﹕Segundo Canal: @afkjao ﹕Entre no Server do Discord! → https://bit.ly/4fbNTKz ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wd7PmzCxlmI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wd7PmzCxlmI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wd7PmzCxlmI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JaoAfk",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-06T00:21:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "NTOY3gQhyuRvs6GpHG6UmAGTDjs",
             "id": {
                 "kind": "youtube#video",
@@ -1098,40 +1132,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "DFqVUjCMxBADvJzT8QBDk1BpgH8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "SYRTUmBJdcI"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-03T18:00:18Z",
-                "channelId": "UCeUDgRDWHKNMJjr6arTffbw",
-                "title": "ZEUS REAGE: O CASO CHARLES JOGOS",
-                "description": "CONTEÚDO ORIGINAL: https://x.com/OFCcharlesjogos/status/1863284673998193041 ↪️ Envie um Sugestão de React: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/SYRTUmBJdcI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/SYRTUmBJdcI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/SYRTUmBJdcI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Zeus Ghostz Gamer Reacts",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-03T18:00:18Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "FBXd8b-YmalzDAltmR0wfRVeLS4",
             "id": {
                 "kind": "youtube#video",
@@ -1196,6 +1196,40 @@
                 "channelTitle": "Ken9824",
                 "liveBroadcastContent": "none",
                 "publishTime": "2024-12-06T00:58:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DFqVUjCMxBADvJzT8QBDk1BpgH8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SYRTUmBJdcI"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-03T18:00:18Z",
+                "channelId": "UCeUDgRDWHKNMJjr6arTffbw",
+                "title": "ZEUS REAGE: O CASO CHARLES JOGOS",
+                "description": "CONTEÚDO ORIGINAL: https://x.com/OFCcharlesjogos/status/1863284673998193041 ↪️ Envie um Sugestão de React: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SYRTUmBJdcI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SYRTUmBJdcI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SYRTUmBJdcI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zeus Ghostz Gamer Reacts",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-03T18:00:18Z"
             }
         },
         {
@@ -1438,40 +1472,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "PSo6tniwFAtaYqfYgtxfR-4YhZQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Wd7PmzCxlmI"
-            },
-            "snippet": {
-                "publishedAt": "2024-12-06T00:21:03Z",
-                "channelId": "UCdFlUqkDixEDgVfMbw8qJIQ",
-                "title": "um jogo perturbador sobre paralisía do sono",
-                "description": "assista até o final e ganhe uma bolacha :] ﹕Segundo Canal: @afkjao ﹕Entre no Server do Discord! → https://bit.ly/4fbNTKz ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Wd7PmzCxlmI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Wd7PmzCxlmI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Wd7PmzCxlmI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "JaoAfk",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-12-06T00:21:03Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "ZqvgWdATnGRRz3VDYAGVK8z5DgM",
             "id": {
                 "kind": "youtube#video",
@@ -1676,36 +1676,36 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "rlXi4Sf7axFJ87vAgO3uJRKFrFI",
+            "etag": "OQc57gVGG06dDvU4kC0FbPFpm-g",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "avtypRYj4dM"
+                "videoId": "S2dnFcnOkIM"
             },
             "snippet": {
-                "publishedAt": "2024-12-02T21:30:06Z",
-                "channelId": "UCZWmxV0UETlsyD9rZoWvgmw",
-                "title": "TOP 10 - Jogos diferentões",
-                "description": "Fala galera !! Curtiu o vídeo ? Compartilhe com um amigo e siga o duque também no IG (@duquebg), tem conteúdo lá (quase) ...",
+                "publishedAt": "2024-12-05T22:15:01Z",
+                "channelId": "UCupqHNRTEHjNtq9X8djWyaQ",
+                "title": "os JOGOS ESNOBADOS da TGA 2024",
+                "description": "Na edição deste ano, da qual o Voxel também faz parte do júri oficial, vários jogos não foram indicados, o que causou revolta ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/avtypRYj4dM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/S2dnFcnOkIM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/avtypRYj4dM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/S2dnFcnOkIM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/avtypRYj4dM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/S2dnFcnOkIM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Duque Board Games",
+                "channelTitle": "Voxel",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-12-02T21:30:06Z"
+                "publishTime": "2024-12-05T22:15:01Z"
             }
         }
     ]
