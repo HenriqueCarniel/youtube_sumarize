@@ -10,6 +10,7 @@ readme = "README.md"
 python = "^3.11"
 google-api-python-client = "^2.156.0"
 python-dotenv = "^1.0.1"
+yt-dlp = "^2024.12.23"
 
 
 [build-system]
