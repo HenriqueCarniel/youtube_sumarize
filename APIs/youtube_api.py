@@ -54,3 +54,33 @@ class YoutubeAPI:
         response = request.execute()
 
         return response
+
+    def search_videos_with_pagination(self, video_category_id, start_date, end_date, total_results, query=''):
+        collected_videos = []
+        page_token = None
+
+        try:
+            while len(collected_videos) < total_results:
+                max_results = min(50, total_results - len(collected_videos))
+                response = self.search_videos(
+                    video_category_id=video_category_id,
+                    start_date=start_date,
+                    end_date=end_date,
+                    query=query,
+                    max_results=max_results,
+                    page_token=page_token
+                )
+
+                collected_videos.extend(response.get('items', []))
+                page_token = response.get('nextPageToken')
+                if not page_token:
+                    break
+        except Exception as e:
+            error_message = str(e)
+            if 'quotaExceeded' in error_message:
+                print("Error: API quota exceeded. Try again later.")
+            else:
+                print(f"Unexpected error: {error_message}")
+            return "ERROR"
+
+        return collected_videos
