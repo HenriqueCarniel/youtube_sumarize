@@ -69,7 +69,7 @@ if __name__ == '__main__':
     start_week_date = datetime(2024, 12, 15)
     tracking_file = "src/tracking.json"
     categories_file = "src/filtered_categories.json"
-    output_csv = "data/youtube_api_search.csv"
+    output_csv = "data/videos.csv"
 
     categories = load_categories(categories_file=categories_file)
     current_week_start = load_progress(tracking_file, start_week_date)
