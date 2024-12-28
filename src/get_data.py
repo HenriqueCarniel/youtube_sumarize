@@ -57,9 +57,9 @@ if __name__ == '__main__':
 
     max_videos_per_week = 100
     start_week_date = datetime(2024, 12, 15)
-    tracking_file = "tracking.json"
-    categories_file = "filtered_categories.json"
-    output_csv = "videos_collected.csv"
+    tracking_file = "src/tracking.json"
+    categories_file = "src/filtered_categories.json"
+    output_csv = "data/youtube_api_search.csv"
 
     categories = load_categories(categories_file=categories_file)
     current_week_start = load_progress(tracking_file, start_week_date)
