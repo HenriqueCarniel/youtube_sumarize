@@ -33,7 +33,7 @@ def write_videos_csv(output_csv, videos_list):
         "video_id", "video_title", "video_description", "published_at", 
         "category_id", "channel_id", "channel_title", "timestamp_metadata", 
         "duration", "view_count", "comment_count", "like_count", 
-        "channel_follower_count", "language"
+        "channel_follower_count", "language", "transcription"
     ]
     file_exists = os.path.isfile(output_csv)
 
@@ -57,7 +57,8 @@ def write_videos_csv(output_csv, videos_list):
                 "comment_count": None,
                 "like_count": None,
                 "channel_follower_count": None,
-                "language": None
+                "language": None,
+                "transcription" : None
             })
 
 if __name__ == '__main__':
