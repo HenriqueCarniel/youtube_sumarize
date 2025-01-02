@@ -18,15 +18,15 @@ def calculate_engagement(row, weight_of_likes, weight_of_comments):
 def categorize_engagement(row, q1, q2, q3, upper_whisker):
     engagement = row["engagement"]
     if engagement <= q1:
-        row["engagement_category"] = 1
+        row["engagement_category"] = 0
     elif engagement <= q2:
-        row["engagement_category"] = 2
+        row["engagement_category"] = 1
     elif engagement <= q3:
-        row["engagement_category"] = 3
+        row["engagement_category"] = 2
     elif engagement <= upper_whisker:
-        row["engagement_category"] = 4
+        row["engagement_category"] = 3
     else:
-        row["engagement_category"] = 5
+        row["engagement_category"] = 4
     return row
 
 if __name__ == '__main__':
@@ -53,6 +53,7 @@ if __name__ == '__main__':
 
     df = df.apply(categorize_engagement, axis=1, q1=q1, q2=q2, q3=q3, upper_whisker=upper_whisker)
 
+    df = df[df["summary"].notna()]
     df.to_csv(output_csv, index=False)
 
     print(f"Processed data saved to {output_csv}")
